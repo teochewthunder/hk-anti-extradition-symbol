@@ -1,6 +1,6 @@
 # HK Anti-extradition Symbol
 
-It starts with a deep red box. Inside, we have three pain parts.
+It starts with a deep red box. Inside, we have three main parts.
 
 ## Main shape
 This is basically a white semicircle, using the *overflow* property to trim off the right half of a circular white div.
